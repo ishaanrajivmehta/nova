@@ -307,7 +307,6 @@
  ],
  "data warehouse": [
   "data warehousing",
-  "warehouse",
   "dwh",
   "data-warehouse"
  ],
@@ -736,9 +735,7 @@
  "learning management system": [
   "lms"
  ],
- "cornerstone ondemand": [
-  "cornerstone"
- ],
+ "cornerstone ondemand": [],
  "addie model": [
   "addie"
  ],
@@ -967,11 +964,8 @@
   "capita sims",
   "school information management system"
  ],
- "arbor mis": [
-  "arbor"
- ],
+ "arbor mis": [],
  "canvas lms": [
-  "canvas",
   "instructure canvas"
  ],
  "blackboard learn": [
@@ -983,9 +977,7 @@
  "satchel one": [
   "show my homework"
  ],
- "sits vision": [
-  "sits"
- ],
+ "sits vision": [],
  "banner student": [
   "ellucian banner"
  ],
@@ -996,14 +988,12 @@
   "keeping children safe in education"
  ],
  "prevent duty": [
-  "prevent",
   "channel referral"
  ],
  "safeguarding": [
   "child protection"
  ],
  "special educational needs": [
-  "send",
   "sen",
   "senco"
  ],
@@ -1130,9 +1120,7 @@
   "deprivation of liberty safeguards",
   "lps"
  ],
- "multi agency safeguarding hub": [
-  "mash"
- ],
+ "multi agency safeguarding hub": [],
  "section 47 enquiry": [
   "s47",
   "section 47"
@@ -1147,9 +1135,7 @@
  "charity sorp": [
   "sorp"
  ],
- "charitable incorporated organisation": [
-  "cio"
- ],
+ "charitable incorporated organisation": [],
  "raiser's edge nxt": [
   "raisers edge",
   "raiser's edge",
@@ -1159,9 +1145,7 @@
   "npsp",
   "nonprofit success pack"
  ],
- "beacon crm": [
-  "beacon"
- ],
+ "beacon crm": [],
  "legacy giving": [
   "planned giving",
   "gifts in wills"
@@ -1394,9 +1378,7 @@
  "siemens nx": [
   "unigraphics"
  ],
- "autodesk inventor": [
-  "inventor"
- ],
+ "autodesk inventor": [],
  "user centred design": [
   "ucd",
   "user centered design",
@@ -1458,15 +1440,12 @@
  "cinema 4d": [
   "c4d"
  ],
- "davinci resolve": [
-  "resolve"
- ],
+ "davinci resolve": [],
  "final cut pro": [
   "fcp",
   "fcpx"
  ],
  "avid media composer": [
-  "avid",
   "media composer"
  ],
  "motion graphics": [
@@ -1488,7 +1467,6 @@
   "architectural visualization"
  ],
  "opera pms": [
-  "opera",
   "oracle opera",
   "fidelio"
  ],
@@ -1581,7 +1559,6 @@
   "kronos workforce central"
  ],
  "fourth hospitality": [
-  "fourth",
   "s4labour"
  ],
  "rota scheduling": [
@@ -1593,5 +1570,5 @@
   "stock management",
   "stocktaking"
  ],
- "_note": "canonical skill/term -> surface variants & acronyms. Mirrors dumb-ATS behaviour (Taleo won't expand these itself). Multi-domain base for nova."
+ "_note": "canonical skill/term -> surface variants & acronyms. Mirrors dumb-ATS behaviour (Taleo won't expand these itself). Multi-domain base for nova. NOTE: bare single-word variants that are common English (sits, canvas, prevent, send, resolve, fourth...) are deliberately EXCLUDED \u2014 they fire on ordinary prose in other domains and manufacture phantom requirements."
 }

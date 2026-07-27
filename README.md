@@ -24,8 +24,12 @@ In Claude Code or Cowork:
 /plugin install nova@nova-cv
 ```
 
-`nova` is the plugin; `nova-cv` is the marketplace this repo publishes. Restart Claude Code (or run
-`/reload-plugins`) and the four commands appear.
+`nova` is the plugin; `nova-cv` is the marketplace this repo publishes. Restart Claude Code (or run `/reload-plugins`) and the
+four commands appear.
+
+**In Cowork**, `/plugin` is not a command. Use **Customize → Plugins → Personal plugins → + → Add
+marketplace → Add from a repository**, and paste this repo's URL. You can also install a `.plugin` file
+through the same **+** menu if someone sends you one.
 
 Dependencies are checked on first use by `scripts/bootstrap.sh`, which is idempotent and safe to re-run.
 Python 3 is required. Node and LibreOffice are needed to render docx and PDF — without them nova still
@@ -94,8 +98,10 @@ inference-free — it reads what's on the page and marks the rest as questions.
 
 **`scripts/data/`** — a 829-term gazetteer across 13 domains (data/AI, software, marketing, sales,
 finance, HR, legal, healthcare, education, public sector, operations/supply chain, physical engineering,
-design/creative, hospitality/retail) plus 387 canonical terms mapped to 820 surface variants and
-acronyms, because real ATS don't expand `GA4` → `Google Analytics 4` for you.
+design/creative, hospitality/retail) plus 387 canonical terms mapped to 805 surface variants and
+acronyms, because real ATS don't expand `GA4` → `Google Analytics 4` for you. Bare single-word variants
+that are common English (`sits`, `canvas`, `prevent`, `send`, `resolve`) are deliberately excluded — they
+fire on ordinary prose in other domains and manufacture phantom requirements.
 
 **`goldenset/`** — four verified CV/JD pairs with expected score bands, and a runner that fails on drift.
 
