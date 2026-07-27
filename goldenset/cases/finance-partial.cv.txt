@@ -1,0 +1,26 @@
+TOM ELLERBY
+Finance Analyst
+t.ellerby@example.com | Bristol, UK
+
+SUMMARY
+Part-qualified finance analyst supporting month-end close and management reporting.
+
+EXPERIENCE
+Finance Analyst  Jan 2023 - Present
+Варrow Logistics Ltd
+- Delivered month-end close for three entities, cutting close time from 9 to 5 working days
+- Built management reporting packs in Power BI over Oracle NetSuite data for a £40m revenue business
+- Performed balance sheet reconciliation and intercompany reconciliation across UK and Irish entities
+- Automated variance analysis in advanced excel with power query, saving 12 hours per month
+Assistant Accountant  Aug 2021 - Dec 2022
+Kirby Foods
+- Managed accounts payable and accounts receivable ledgers, processing 900+ invoices monthly
+- Prepared vat returns and supported the external audit process
+
+SKILLS
+Systems: Oracle NetSuite, Power BI, advanced excel, power query, SQL
+Accounting: month-end close, general ledger, account reconciliation, accounts payable, accounts receivable, vat returns
+Studying: CIMA (managerial level)
+
+EDUCATION
+BSc Accounting and Finance - University of Bristol  Sep 2018 - Jun 2021

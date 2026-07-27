@@ -1,0 +1,7 @@
+{
+  "name": "nova-cv",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Renderer dependencies for the nova CV plugin",
+  "dependencies": { "docx": "^8.5.0" }
+}

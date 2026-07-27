@@ -1,0 +1,1597 @@
+{
+ "machine learning": [
+  "ml",
+  "machine-learning",
+  "machine learnt"
+ ],
+ "natural language processing": [
+  "nlp",
+  "natural-language processing"
+ ],
+ "large language model": [
+  "llm",
+  "llms",
+  "large language models",
+  "large-language model"
+ ],
+ "artificial intelligence": [
+  "ai"
+ ],
+ "power bi": [
+  "powerbi",
+  "power-bi",
+  "pbi",
+  "microsoft power bi"
+ ],
+ "business intelligence": [
+  "bi",
+  "bi tool",
+  "bi tools"
+ ],
+ "scikit-learn": [
+  "sklearn",
+  "scikit learn",
+  "scikit"
+ ],
+ "pandas": [
+  "pd"
+ ],
+ "numpy": [
+  "np"
+ ],
+ "pytorch": [
+  "torch"
+ ],
+ "tensorflow": [
+  "tf",
+  "tensor flow"
+ ],
+ "sql": [
+  "structured query language",
+  "t-sql",
+  "tsql",
+  "mysql",
+  "postgresql",
+  "postgres",
+  "mssql",
+  "ms sql"
+ ],
+ "extract transform load": [
+  "etl",
+  "elt"
+ ],
+ "amazon web services": [
+  "aws"
+ ],
+ "microsoft azure": [
+  "azure"
+ ],
+ "google cloud platform": [
+  "gcp",
+  "google cloud"
+ ],
+ "continuous integration": [
+  "ci",
+  "ci/cd",
+  "cicd"
+ ],
+ "exploratory data analysis": [
+  "eda"
+ ],
+ "key performance indicator": [
+  "kpi",
+  "kpis"
+ ],
+ "a/b testing": [
+  "a b testing",
+  "ab testing",
+  "experiment design",
+  "experimentation",
+  "hypothesis testing",
+  "split testing",
+  "multivariate testing"
+ ],
+ "data visualisation": [
+  "data storytelling",
+  "data visualization",
+  "data viz",
+  "dataviz",
+  "visualisation",
+  "visualisations",
+  "visualization"
+ ],
+ "javascript": [
+  "js",
+  "ecmascript"
+ ],
+ "typescript": [
+  "ts"
+ ],
+ "react": [
+  "react.js",
+  "reactjs"
+ ],
+ "node": [
+  "node.js",
+  "nodejs"
+ ],
+ "next.js": [
+  "nextjs",
+  "next js"
+ ],
+ "rest api": [
+  "api",
+  "apis",
+  "rest",
+  "rest apis",
+  "restful",
+  "restful api"
+ ],
+ "generative ai": [
+  "gen ai",
+  "genai",
+  "generative artificial intelligence"
+ ],
+ "prompt engineering": [
+  "prompting"
+ ],
+ "statistical modelling": [
+  "statistical modeling",
+  "statistical models",
+  "statistics",
+  "statistical analysis"
+ ],
+ "predictive modelling": [
+  "forecast",
+  "forecasting",
+  "forecasting methodology",
+  "predictive analytics",
+  "predictive modeling",
+  "predictive models"
+ ],
+ "requirements gathering": [
+  "acceptance criteria",
+  "gathering requirements",
+  "requirement gathering",
+  "requirements elicitation",
+  "use cases",
+  "user stories"
+ ],
+ "stakeholder management": [
+  "stakeholder engagement",
+  "stakeholder communication",
+  "stakeholders"
+ ],
+ "business analysis": [
+  "business analyst",
+  "ba"
+ ],
+ "data analysis": [
+  "data analyst",
+  "data analytics",
+  "analytics"
+ ],
+ "data science": [
+  "data scientist"
+ ],
+ "software engineering": [
+  "software engineer",
+  "software development",
+  "swe",
+  "sde"
+ ],
+ "machine learning engineer": [
+  "mle",
+  "ml engineer"
+ ],
+ "tableau": [
+  "tableau desktop"
+ ],
+ "excel": [
+  "advanced excel",
+  "microsoft excel",
+  "ms excel",
+  "spreadsheets"
+ ],
+ "git": [
+  "github",
+  "gitlab",
+  "version control"
+ ],
+ "agile": [
+  "scrum",
+  "kanban",
+  "agile methodology"
+ ],
+ "dashboards": [
+  "bi dashboards",
+  "dashboard",
+  "dashboarding",
+  "reporting",
+  "reporting dashboards"
+ ],
+ "supabase": [
+  "postgres",
+  "postgresql"
+ ],
+ "data pipeline": [
+  "data pipelines",
+  "pipelines",
+  "data engineering"
+ ],
+ "gemini": [
+  "google gemini",
+  "gemini flash"
+ ],
+ "automation": [
+  "automate",
+  "automated",
+  "automating",
+  "automations",
+  "workflow automation",
+  "process automation"
+ ],
+ "master": [
+  "masters",
+  "master's",
+  "msc",
+  "m.sc",
+  "msci",
+  "postgraduate degree",
+  "master of science"
+ ],
+ "bachelor": [
+  "bachelors",
+  "bachelor's",
+  "btech",
+  "b.tech",
+  "bsc",
+  "b.sc",
+  "be",
+  "undergraduate degree",
+  "bachelor's degree",
+  "bachelors degree",
+  "computer science degree",
+  "cs degree",
+  "degree educated",
+  "degree"
+ ],
+ "phd": [
+  "doctorate",
+  "dphil",
+  "doctoral"
+ ],
+ "segmentation": [
+  "audience segmentation",
+  "cohort analysis",
+  "customer segmentation",
+  "segment audiences"
+ ],
+ "data quality": [
+  "data accuracy",
+  "data cleansing",
+  "data integrity",
+  "data monitoring",
+  "data quality monitoring",
+  "data quality standards",
+  "data validation",
+  "data-quality checks"
+ ],
+ "master's degree": [
+  "masters",
+  "master of science",
+  "msc",
+  "m.sc",
+  "postgraduate degree",
+  "master\u2019s degree",
+  "masters degree"
+ ],
+ "data modelling": [
+  "data model",
+  "data models",
+  "data modeling",
+  "schema design",
+  "dimensional modelling",
+  "data models design"
+ ],
+ "power query": [
+  "powerquery",
+  "power-query",
+  "m query"
+ ],
+ "pivot tables": [
+  "pivot table",
+  "pivottable",
+  "advanced pivots",
+  "advanced pivot tables"
+ ],
+ "data warehouse": [
+  "data warehousing",
+  "warehouse",
+  "dwh",
+  "data-warehouse"
+ ],
+ "sentiment analysis": [
+  "sentiment",
+  "sentiment classification"
+ ],
+ "retrieval-augmented generation": [
+  "rag",
+  "retrieval augmented generation",
+  "retrieval-augmented"
+ ],
+ "vector database": [
+  "vector search",
+  "vector db",
+  "vector databases",
+  "semantic search",
+  "embeddings store"
+ ],
+ "embeddings": [
+  "embedding",
+  "text embeddings",
+  "vector embeddings"
+ ],
+ "agentic": [
+  "agents",
+  "ai agents",
+  "agent",
+  "agent orchestration",
+  "agentic workflows",
+  "tool use",
+  "agent-first"
+ ],
+ "statistics": [
+  "statistical analysis",
+  "statistical modelling",
+  "stats",
+  "statistical"
+ ],
+ "powerpoint": [
+  "ms powerpoint",
+  "microsoft powerpoint",
+  "slides",
+  "decks",
+  "presentations"
+ ],
+ "big data": [
+  "bigdata",
+  "large-scale data"
+ ],
+ "kubernetes": [
+  "k8s"
+ ],
+ "keras": [
+  "tf.keras"
+ ],
+ "metrics": [
+  "kpi metrics",
+  "key metrics",
+  "performance metrics"
+ ],
+ "benchmarking": [
+  "benchmark",
+  "benchmarks"
+ ],
+ "data pipelines": [
+  "data pipeline",
+  "pipelines",
+  "etl pipelines",
+  "data replication"
+ ],
+ "computer science degree": [
+  "computer science",
+  "btech computer science",
+  "bsc computer science",
+  "cs degree",
+  "degree in computer science"
+ ],
+ "degree": [
+  "btech",
+  "b.tech",
+  "bachelor",
+  "bachelors",
+  "bachelor's",
+  "bsc",
+  "msc",
+  "master",
+  "masters",
+  "undergraduate degree",
+  "postgraduate degree",
+  "honours",
+  "distinction",
+  "degree educated"
+ ],
+ "ai systems": [
+  "ai system",
+  "llm pipeline",
+  "llm pipeline engineering",
+  "ai pipeline",
+  "production ai",
+  "ai-powered",
+  "ai-enabled",
+  "ai product",
+  "end-to-end ai"
+ ],
+ "ai-powered products": [
+  "ai-powered product",
+  "ai product",
+  "llm pipeline",
+  "ai-enabled product",
+  "ai systems",
+  "ai application"
+ ],
+ "web applications": [
+  "web application",
+  "web app",
+  "web apps",
+  "full-stack web",
+  "react",
+  "next.js",
+  "web development",
+  "frontend application"
+ ],
+ "web apps": [
+  "web app",
+  "web application",
+  "web applications",
+  "full-stack web",
+  "react",
+  "next.js"
+ ],
+ "backend services": [
+  "backend service",
+  "back-end services",
+  "backend",
+  "rest apis",
+  "rest api",
+  "fastapi",
+  "api development",
+  "backend api"
+ ],
+ "rag": [
+  "retrieval-augmented generation",
+  "retrieval augmented generation",
+  "rag pipeline",
+  "rag / vector databases",
+  "rag / retrieval-augmented generation",
+  "rag pipelines"
+ ],
+ "agents": [
+  "agent",
+  "ai agents",
+  "agentic",
+  "agentic workflows",
+  "agent orchestration",
+  "tool-calling",
+  "tool use",
+  "agent applications",
+  "agent-powered"
+ ],
+ "vector databases": [
+  "vector database",
+  "vector search",
+  "embeddings",
+  "vector search / embeddings",
+  "rag / vector databases",
+  "pinecone",
+  "vector store"
+ ],
+ "workflow automation": [
+  "workflow automation",
+  "automated workflows",
+  "process automation",
+  "automation",
+  "automated pipeline"
+ ],
+ "production systems": [
+  "production system",
+  "production deployment",
+  "production-grade",
+  "in production",
+  "deployed to production"
+ ],
+ "monitoring": [
+  "observability",
+  "monitoring and logging",
+  "monitoring & alerting"
+ ],
+ "sql server": [
+  "ms sql server",
+  "microsoft sql server",
+  "sql server management studio",
+  "ssms",
+  "mssql",
+  "t-sql",
+  "transact-sql"
+ ],
+ "google analytics 4": [
+  "ga4",
+  "google analytics",
+  "universal analytics"
+ ],
+ "google tag manager": [
+  "gtm",
+  "tag manager"
+ ],
+ "google search console": [
+  "gsc",
+  "search console"
+ ],
+ "meta ads manager": [
+  "meta ads",
+  "facebook ads"
+ ],
+ "search engine optimization": [
+  "seo",
+  "organic search",
+  "search engine optimisation"
+ ],
+ "conversion rate optimization": [
+  "cro"
+ ],
+ "multi-touch attribution": [
+  "mta"
+ ],
+ "marketing mix modeling": [
+  "mmm",
+  "media mix modeling"
+ ],
+ "content management system": [
+  "cms"
+ ],
+ "customer data platform": [
+  "cdp"
+ ],
+ "account based marketing": [
+  "abm"
+ ],
+ "go-to-market strategy": [
+  "gtm strategy",
+  "go to market"
+ ],
+ "demand side platform": [
+  "dsp"
+ ],
+ "return on ad spend": [
+  "roas"
+ ],
+ "cost per acquisition": [
+  "cpa",
+  "cac"
+ ],
+ "adobe creative cloud": [
+  "adobe creative suite",
+  "adobe cc"
+ ],
+ "salesforce marketing cloud": [
+  "exacttarget",
+  "sfmc"
+ ],
+ "looker studio": [
+  "google data studio",
+  "data studio"
+ ],
+ "customer relationship management": [
+  "crm"
+ ],
+ "salesforce": [
+  "salesforce.com",
+  "sfdc"
+ ],
+ "salesforce cpq": [
+  "cpq"
+ ],
+ "microsoft dynamics 365": [
+  "dynamics 365",
+  "d365",
+  "ms dynamics"
+ ],
+ "linkedin sales navigator": [
+  "sales navigator"
+ ],
+ "revenue operations": [
+  "revops"
+ ],
+ "sales operations": [
+  "sales ops"
+ ],
+ "annual recurring revenue": [
+  "arr",
+  "mrr"
+ ],
+ "net revenue retention": [
+  "nrr",
+  "ndr"
+ ],
+ "quote to cash": [
+  "q2c",
+  "order to cash"
+ ],
+ "meddic": [
+  "meddpicc"
+ ],
+ "customer success management": [
+  "csm",
+  "customer success"
+ ],
+ "incentive compensation": [
+  "sales commission",
+  "icm"
+ ],
+ "financial planning and analysis": [
+  "fp&a",
+  "fpa"
+ ],
+ "discounted cash flow": [
+  "dcf"
+ ],
+ "month-end close": [
+  "month end close",
+  "financial close",
+  "period end close"
+ ],
+ "general ledger": [
+  "gl",
+  "nominal ledger"
+ ],
+ "accounts payable": [
+  "ap",
+  "purchase ledger"
+ ],
+ "accounts receivable": [
+  "ar",
+  "sales ledger",
+  "credit control"
+ ],
+ "us gaap": [
+  "gaap"
+ ],
+ "ifrs": [
+  "international financial reporting standards"
+ ],
+ "asc 606": [
+  "ifrs 15"
+ ],
+ "sarbanes-oxley": [
+  "sox",
+  "sarbanes oxley",
+  "sox compliance"
+ ],
+ "vat returns": [
+  "vat",
+  "value added tax"
+ ],
+ "oracle netsuite": [
+  "netsuite"
+ ],
+ "adaptive insights": [
+  "workday adaptive planning"
+ ],
+ "advanced excel": [
+  "microsoft excel",
+  "ms excel",
+  "excel"
+ ],
+ "vba macros": [
+  "vba",
+  "excel macros"
+ ],
+ "cpa": [
+  "certified public accountant"
+ ],
+ "acca": [
+  "aca",
+  "icaew",
+  "chartered accountant"
+ ],
+ "cima": [
+  "cma"
+ ],
+ "applicant tracking system": [
+  "ats"
+ ],
+ "sap successfactors": [
+  "successfactors"
+ ],
+ "oracle hcm cloud": [
+  "oracle hcm",
+  "oracle fusion hcm"
+ ],
+ "adp workforce now": [
+  "adp"
+ ],
+ "ukg pro": [
+  "ukg",
+  "ultipro"
+ ],
+ "ceridian dayforce": [
+  "dayforce"
+ ],
+ "hris administration": [
+  "hris",
+  "hcm"
+ ],
+ "full cycle recruiting": [
+  "end to end recruitment",
+  "360 recruitment"
+ ],
+ "people analytics": [
+  "hr analytics",
+  "workforce analytics"
+ ],
+ "compensation benchmarking": [
+  "salary benchmarking"
+ ],
+ "total rewards": [
+  "compensation and benefits"
+ ],
+ "affordable care act": [
+  "aca"
+ ],
+ "diversity equity inclusion": [
+  "dei",
+  "edi"
+ ],
+ "learning management system": [
+  "lms"
+ ],
+ "cornerstone ondemand": [
+  "cornerstone"
+ ],
+ "addie model": [
+  "addie"
+ ],
+ "360 degree feedback": [
+  "360 feedback"
+ ],
+ "okr framework": [
+  "okrs",
+  "objectives and key results"
+ ],
+ "culture amp": [
+  "cultureamp"
+ ],
+ "shrm-cp": [
+  "shrm",
+  "shrm-scp"
+ ],
+ "phr": [
+  "sphr"
+ ],
+ "cipd level 7": [
+  "cipd"
+ ],
+ "structured interviewing": [
+  "behavioural interviewing",
+  "behavioral interviewing"
+ ],
+ "general data protection regulation": [
+  "gdpr",
+  "uk gdpr",
+  "eu gdpr"
+ ],
+ "data subject access request": [
+  "dsar",
+  "subject access request"
+ ],
+ "foreign corrupt practices act": [
+  "fcpa"
+ ],
+ "uk bribery act": [
+  "bribery act"
+ ],
+ "anti-money laundering": [
+  "aml"
+ ],
+ "kyc": [
+  "know your customer",
+  "customer due diligence",
+  "cdd"
+ ],
+ "ofac compliance": [
+  "ofac"
+ ],
+ "mifid ii": [
+  "mifid"
+ ],
+ "solicitors regulation authority": [
+  "sra"
+ ],
+ "contract lifecycle management": [
+  "clm",
+  "contract management"
+ ],
+ "non-disclosure agreements": [
+  "nda",
+  "ndas",
+  "confidentiality agreements"
+ ],
+ "master services agreement": [
+  "msa"
+ ],
+ "service level agreements": [
+  "sla",
+  "slas"
+ ],
+ "data processing agreement": [
+  "dpa"
+ ],
+ "e-discovery": [
+  "ediscovery",
+  "electronic discovery",
+  "e-disclosure"
+ ],
+ "imanage": [
+  "imanage work",
+  "filesite"
+ ],
+ "certified information privacy professional": [
+  "cipp"
+ ],
+ "certified anti-money laundering specialist": [
+  "cams",
+  "acams"
+ ],
+ "cilex": [
+  "chartered institute of legal executives"
+ ],
+ "solicitors qualifying examination": [
+  "sqe"
+ ],
+ "electronic health records": [
+  "ehr",
+  "emr",
+  "electronic patient record",
+  "epr"
+ ],
+ "epic": [
+  "epic systems",
+  "hyperspace"
+ ],
+ "cerner": [
+  "cerner millennium",
+  "powerchart",
+  "oracle health"
+ ],
+ "emis web": [
+  "emis",
+  "emis health"
+ ],
+ "systmone": [
+  "tpp systmone",
+  "systm one"
+ ],
+ "pacs": [
+  "picture archiving and communication system"
+ ],
+ "computerised physician order entry": [
+  "cpoe"
+ ],
+ "master patient index": [
+  "mpi",
+  "empi"
+ ],
+ "hl7": [
+  "health level seven"
+ ],
+ "fhir": [
+  "hl7 fhir",
+  "fhir r4"
+ ],
+ "snomed ct": [
+  "snomed"
+ ],
+ "icd-10": [
+  "icd10",
+  "icd-10-cm"
+ ],
+ "hipaa": [
+  "hipaa compliance"
+ ],
+ "good clinical practice": [
+  "gcp",
+  "ich-gcp",
+  "ich gcp"
+ ],
+ "electronic data capture": [
+  "edc"
+ ],
+ "medidata rave": [
+  "rave edc",
+  "medidata"
+ ],
+ "clinical trial management system": [
+  "ctms"
+ ],
+ "case report form": [
+  "crf",
+  "ecrf"
+ ],
+ "source data verification": [
+  "sdv"
+ ],
+ "serious adverse event": [
+  "sae",
+  "susar"
+ ],
+ "trial master file": [
+  "tmf",
+  "etmf"
+ ],
+ "21 cfr part 11": [
+  "part 11",
+  "cfr part 11"
+ ],
+ "mhra": [
+  "medicines and healthcare products regulatory agency"
+ ],
+ "care quality commission": [
+  "cqc"
+ ],
+ "nice guidelines": [
+  "nice guidance"
+ ],
+ "infection prevention control": [
+  "ipc",
+  "infection control"
+ ],
+ "safeguarding vulnerable adults": [
+  "sova",
+  "adult safeguarding"
+ ],
+ "mental health act": [
+  "mha"
+ ],
+ "nmc revalidation": [
+  "nmc",
+  "nursing and midwifery council"
+ ],
+ "venepuncture": [
+  "venipuncture"
+ ],
+ "basic life support": [
+  "bls",
+  "cpr certification"
+ ],
+ "advanced life support": [
+  "als",
+  "acls",
+  "ils"
+ ],
+ "national early warning score": [
+  "news2",
+  "news 2"
+ ],
+ "sims": [
+  "capita sims",
+  "school information management system"
+ ],
+ "arbor mis": [
+  "arbor"
+ ],
+ "canvas lms": [
+  "canvas",
+  "instructure canvas"
+ ],
+ "blackboard learn": [
+  "blackboard"
+ ],
+ "cpoms": [
+  "myconcern"
+ ],
+ "satchel one": [
+  "show my homework"
+ ],
+ "sits vision": [
+  "sits"
+ ],
+ "banner student": [
+  "ellucian banner"
+ ],
+ "hesa returns": [
+  "hesa"
+ ],
+ "kcsie": [
+  "keeping children safe in education"
+ ],
+ "prevent duty": [
+  "prevent",
+  "channel referral"
+ ],
+ "safeguarding": [
+  "child protection"
+ ],
+ "special educational needs": [
+  "send",
+  "sen",
+  "senco"
+ ],
+ "education health care plan": [
+  "ehcp",
+  "ehc plan"
+ ],
+ "individual education plan": [
+  "iep"
+ ],
+ "qualified teacher status": [
+  "qts",
+  "qtls"
+ ],
+ "pgce": [
+  "postgraduate certificate in education"
+ ],
+ "scitt": [
+  "school direct",
+  "initial teacher training",
+  "itt"
+ ],
+ "national professional qualification": [
+  "npq",
+  "npqh",
+  "npqsl"
+ ],
+ "formative assessment": [
+  "assessment for learning",
+  "afl"
+ ],
+ "education inspection framework": [
+  "eif",
+  "ofsted framework"
+ ],
+ "early years foundation stage": [
+  "eyfs"
+ ],
+ "systematic synthetic phonics": [
+  "phonics",
+  "synthetic phonics"
+ ],
+ "udl": [
+  "universal design for learning"
+ ],
+ "rti": [
+  "response to intervention"
+ ],
+ "mtss": [
+  "multi-tiered system of supports"
+ ],
+ "scorm": [
+  "xapi",
+  "tin can api"
+ ],
+ "quality assurance agency": [
+  "qaa"
+ ],
+ "teaching excellence framework": [
+  "tef"
+ ],
+ "research excellence framework": [
+  "ref"
+ ],
+ "ferpa": [
+  "family educational rights and privacy act"
+ ],
+ "title ix": [
+  "title 9"
+ ],
+ "common core standards": [
+  "common core",
+  "ccss"
+ ],
+ "next generation science standards": [
+  "ngss"
+ ],
+ "foi requests": [
+  "freedom of information",
+  "foi",
+  "foia"
+ ],
+ "data protection act": [
+  "dpa 2018"
+ ],
+ "public sector equality duty": [
+  "psed",
+  "equality act"
+ ],
+ "equality impact assessment": [
+  "eia",
+  "eqia"
+ ],
+ "treasury green book": [
+  "green book"
+ ],
+ "section 106 agreements": [
+  "s106",
+  "section 106"
+ ],
+ "community infrastructure levy": [
+  "cil"
+ ],
+ "national planning policy framework": [
+  "nppf"
+ ],
+ "procurement act 2023": [
+  "procurement act"
+ ],
+ "public contracts regulations": [
+  "pcr 2015",
+  "pcr"
+ ],
+ "care act 2014": [
+  "care act"
+ ],
+ "children act 1989": [
+  "children act"
+ ],
+ "mental capacity act": [
+  "mca"
+ ],
+ "dols": [
+  "deprivation of liberty safeguards",
+  "lps"
+ ],
+ "multi agency safeguarding hub": [
+  "mash"
+ ],
+ "section 47 enquiry": [
+  "s47",
+  "section 47"
+ ],
+ "early help assessment": [
+  "eha",
+  "caf"
+ ],
+ "continuing healthcare funding": [
+  "chc"
+ ],
+ "charity sorp": [
+  "sorp"
+ ],
+ "charitable incorporated organisation": [
+  "cio"
+ ],
+ "raiser's edge nxt": [
+  "raisers edge",
+  "raiser's edge",
+  "re nxt"
+ ],
+ "salesforce nonprofit cloud": [
+  "npsp",
+  "nonprofit success pack"
+ ],
+ "beacon crm": [
+  "beacon"
+ ],
+ "legacy giving": [
+  "planned giving",
+  "gifts in wills"
+ ],
+ "trust fundraising": [
+  "trusts and foundations"
+ ],
+ "bid writing": [
+  "tender writing"
+ ],
+ "logic model": [
+  "theory of change"
+ ],
+ "sroi": [
+  "social return on investment"
+ ],
+ "certified fund raising executive": [
+  "cfre"
+ ],
+ "computer aided design": [
+  "cad",
+  "3d cad",
+  "2d cad"
+ ],
+ "building information modelling": [
+  "bim",
+  "building information modeling"
+ ],
+ "lean six sigma": [
+  "six sigma",
+  "lss"
+ ],
+ "six sigma green belt": [
+  "green belt",
+  "lssgb"
+ ],
+ "six sigma black belt": [
+  "black belt",
+  "lssbb"
+ ],
+ "finite element analysis": [
+  "fea"
+ ],
+ "computational fluid dynamics": [
+  "cfd"
+ ],
+ "geometric dimensioning tolerancing": [
+  "gd&t",
+  "gdt"
+ ],
+ "design for manufacture": [
+  "dfm",
+  "dfma"
+ ],
+ "design for assembly": [
+  "dfa"
+ ],
+ "material requirements planning": [
+  "mrp",
+  "mrp ii"
+ ],
+ "enterprise resource planning": [
+  "erp"
+ ],
+ "warehouse management system": [
+  "wms"
+ ],
+ "transportation management system": [
+  "tms"
+ ],
+ "sales and operations planning": [
+  "s&op",
+  "integrated business planning"
+ ],
+ "electronic data interchange": [
+  "edi"
+ ],
+ "procure to pay": [
+  "p2p",
+  "purchase to pay",
+  "source to pay"
+ ],
+ "vendor managed inventory": [
+  "vmi"
+ ],
+ "overall equipment effectiveness": [
+  "oee"
+ ],
+ "statistical process control": [
+  "spc"
+ ],
+ "failure mode effects analysis": [
+  "fmea",
+  "dfmea",
+  "pfmea"
+ ],
+ "total productive maintenance": [
+  "tpm"
+ ],
+ "total quality management": [
+  "tqm"
+ ],
+ "just in time": [
+  "jit"
+ ],
+ "root cause analysis": [
+  "rca",
+  "5 whys"
+ ],
+ "value stream mapping": [
+  "vsm"
+ ],
+ "good manufacturing practice": [
+  "gmp",
+  "cgmp"
+ ],
+ "bill of materials": [
+  "bom"
+ ],
+ "apics cpim": [
+  "cpim",
+  "cscp",
+  "apics"
+ ],
+ "cips": [
+  "mcips"
+ ],
+ "sap ibp": [
+  "ibp",
+  "sap apo"
+ ],
+ "sap ewm": [
+  "ewm"
+ ],
+ "kinaxis rapidresponse": [
+  "kinaxis",
+  "rapidresponse"
+ ],
+ "blue yonder": [
+  "jda",
+  "jda software"
+ ],
+ "sap ariba": [
+  "ariba"
+ ],
+ "iso 9001": [
+  "iso9001"
+ ],
+ "iso 14001": [
+  "iso14001"
+ ],
+ "iso 45001": [
+  "iso45001",
+  "ohsas 18001"
+ ],
+ "primavera p6": [
+  "primavera",
+  "p6"
+ ],
+ "bs 7671": [
+  "18th edition",
+  "wiring regulations"
+ ],
+ "cdm regulations": [
+  "cdm",
+  "cdm 2015"
+ ],
+ "eurocode": [
+  "eurocodes"
+ ],
+ "nec contract": [
+  "nec3",
+  "nec4"
+ ],
+ "jct contract": [
+  "jct"
+ ],
+ "cibse guide": [
+  "cibse"
+ ],
+ "building regulations part l": [
+  "part l",
+  "approved document l"
+ ],
+ "chartered engineer": [
+  "ceng",
+  "imeche",
+  "istructe"
+ ],
+ "cscs card": [
+  "cscs"
+ ],
+ "smsts": [
+  "sssts"
+ ],
+ "nebosh": [
+  "iosh"
+ ],
+ "plc programming": [
+  "plc",
+  "programmable logic controller",
+  "ladder logic"
+ ],
+ "scada": [
+  "hmi scada"
+ ],
+ "pcb design": [
+  "printed circuit board",
+  "pcb layout"
+ ],
+ "altium designer": [
+  "altium"
+ ],
+ "autocad civil 3d": [
+  "civil 3d"
+ ],
+ "tekla structures": [
+  "tekla"
+ ],
+ "staad pro": [
+  "staad"
+ ],
+ "solidworks": [
+  "solid works"
+ ],
+ "ptc creo": [
+  "creo",
+  "pro engineer"
+ ],
+ "siemens nx": [
+  "unigraphics"
+ ],
+ "autodesk inventor": [
+  "inventor"
+ ],
+ "user centred design": [
+  "ucd",
+  "user centered design",
+  "human centred design"
+ ],
+ "usability testing": [
+  "user testing"
+ ],
+ "information architecture": [
+  "sitemaps"
+ ],
+ "user journey mapping": [
+  "customer journey mapping",
+  "user flows"
+ ],
+ "user personas": [
+  "personas"
+ ],
+ "design system": [
+  "design systems",
+  "component library",
+  "pattern library"
+ ],
+ "wcag": [
+  "wcag 2.1",
+  "wcag 2.2",
+  "section 508"
+ ],
+ "interaction design": [
+  "ixd",
+  "ui design",
+  "user interface design"
+ ],
+ "user research": [
+  "ux research"
+ ],
+ "adobe creative suite": [
+  "creative cloud",
+  "adobe suite"
+ ],
+ "after effects": [
+  "adobe after effects"
+ ],
+ "premiere pro": [
+  "adobe premiere"
+ ],
+ "adobe photoshop": [
+  "photoshop"
+ ],
+ "adobe illustrator": [
+  "illustrator"
+ ],
+ "adobe indesign": [
+  "indesign"
+ ],
+ "adobe xd": [
+  "xd"
+ ],
+ "cinema 4d": [
+  "c4d"
+ ],
+ "davinci resolve": [
+  "resolve"
+ ],
+ "final cut pro": [
+  "fcp",
+  "fcpx"
+ ],
+ "avid media composer": [
+  "avid",
+  "media composer"
+ ],
+ "motion graphics": [
+  "motion design"
+ ],
+ "colour grading": [
+  "color grading",
+  "colour correction"
+ ],
+ "3d modelling": [
+  "3d modeling"
+ ],
+ "riba plan of work": [
+  "riba",
+  "riba stages"
+ ],
+ "architectural visualisation": [
+  "archviz",
+  "architectural visualization"
+ ],
+ "opera pms": [
+  "opera",
+  "oracle opera",
+  "fidelio"
+ ],
+ "micros simphony": [
+  "micros",
+  "oracle simphony"
+ ],
+ "epos": [
+  "pos",
+  "point of sale",
+  "epos systems"
+ ],
+ "revenue per available room": [
+  "revpar",
+  "goppar"
+ ],
+ "average daily rate": [
+  "adr"
+ ],
+ "yield management": [
+  "revenue management"
+ ],
+ "haccp": [
+  "hazard analysis critical control"
+ ],
+ "gross profit margin": [
+  "gp margin",
+  "gross margin"
+ ],
+ "wset": [
+  "wset level 2",
+  "wset level 3"
+ ],
+ "workforce management": [
+  "wfm",
+  "shift scheduling"
+ ],
+ "average handling time": [
+  "aht"
+ ],
+ "first contact resolution": [
+  "fcr",
+  "first call resolution"
+ ],
+ "service level agreement": [
+  "service levels"
+ ],
+ "net promoter score": [
+  "nps"
+ ],
+ "customer satisfaction score": [
+  "csat"
+ ],
+ "interactive voice response": [
+  "ivr"
+ ],
+ "nice incontact": [
+  "nice cxone",
+  "cxone"
+ ],
+ "genesys cloud": [
+  "genesys",
+  "genesys purecloud"
+ ],
+ "salesforce service cloud": [
+  "service cloud"
+ ],
+ "cafm": [
+  "computer aided facilities management"
+ ],
+ "planned preventative maintenance": [
+  "ppm",
+  "preventive maintenance"
+ ],
+ "legionella control": [
+  "acop l8",
+  "water hygiene"
+ ],
+ "visual merchandising": [
+  "merchandising standards"
+ ],
+ "shrinkage control": [
+  "shrinkage",
+  "stock shrinkage"
+ ],
+ "loss prevention": [
+  "asset protection"
+ ],
+ "kronos": [
+  "kronos workforce central"
+ ],
+ "fourth hospitality": [
+  "fourth",
+  "s4labour"
+ ],
+ "rota scheduling": [
+  "rota planning",
+  "labour scheduling"
+ ],
+ "stock control": [
+  "inventory control",
+  "stock management",
+  "stocktaking"
+ ],
+ "_note": "canonical skill/term -> surface variants & acronyms. Mirrors dumb-ATS behaviour (Taleo won't expand these itself). Multi-domain base for nova."
+}

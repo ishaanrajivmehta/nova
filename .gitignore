@@ -1,0 +1,26 @@
+# ---------------------------------------------------------------------------
+# PRIVATE PROFILE — never tracked. This is the user's real employment history,
+# contact details and application record. It stays on their machine.
+# ---------------------------------------------------------------------------
+profile/*
+!profile/README.md
+*.profile.json
+vault.md
+craft-bank.md
+stretch-log.md
+history.jsonl
+
+# Personal CVs and generated output
+*.pdf
+*.docx
+!goldenset/cases/*.txt
+applications/
+corpus/
+_extracted.json
+
+# Python / node
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.DS_Store

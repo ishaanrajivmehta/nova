@@ -1,0 +1,25 @@
+DANIEL OKAFOR
+Mechanical Engineer
+d.okafor@example.com | Coventry, UK
+
+SUMMARY
+Mechanical engineer with four years in automotive component design.
+
+EXPERIENCE
+Design Engineer  Sep 2022 - Present
+Ashworth Precision Ltd
+- Produced 3d modelling and detailed drawings in SolidWorks for 60+ powertrain bracket variants
+- Applied geometric dimensioning tolerancing to drawings, cutting supplier query volume 35%
+- Ran stress analysis and fatigue analysis on mounting assemblies using Ansys
+- Led design for manufacture reviews with the machining team, reducing unit cost 12%
+Graduate Engineer  Sep 2021 - Aug 2022
+Ashworth Precision Ltd
+- Supported cnc machining trials and first-article inspection
+
+SKILLS
+CAD: SolidWorks, AutoCAD, computer aided design
+Analysis: Ansys, finite element analysis, stress analysis, thermodynamics
+Manufacturing: cnc machining, design for manufacture, injection moulding
+
+EDUCATION
+MEng Mechanical Engineering - University of Warwick  Sep 2017 - Jun 2021

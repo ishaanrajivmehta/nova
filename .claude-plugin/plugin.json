@@ -1,0 +1,9 @@
+{
+  "name": "nova",
+  "version": "0.1.0",
+  "description": "Craft and score CVs against job descriptions. Three latitude modes, an ATS-realistic scoring engine validated by a golden-set regression, and an optional personal profile that improves with use.",
+  "author": {"name": "InSearchLabs"},
+  "homepage": "https://github.com/ishaanrajivmehta/nova",
+  "license": "MIT",
+  "keywords": ["cv", "resume", "ats", "job-search", "tailoring", "scoring"]
+}

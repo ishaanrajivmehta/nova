@@ -1,0 +1,51 @@
+{
+  "scorer_version": "g829-baff77a2",
+  "results": [
+    {
+      "id": "marketing-strong",
+      "jd_match": 100.0,
+      "jd_match_stemmed": 100.0,
+      "quality": 87.8,
+      "n_requirements": 19,
+      "real_gaps": []
+    },
+    {
+      "id": "finance-partial",
+      "jd_match": 38.3,
+      "jd_match_stemmed": 38.3,
+      "quality": 79.4,
+      "n_requirements": 22,
+      "real_gaps": [
+        "FP&A Analyst",
+        "forecasting",
+        "financial planning and analysis",
+        "us gaap",
+        "financial modeling",
+        "three statement modeling"
+      ]
+    },
+    {
+      "id": "engineering-weak",
+      "jd_match": 0.0,
+      "jd_match_stemmed": 0.0,
+      "quality": 70.9,
+      "n_requirements": 16,
+      "real_gaps": [
+        "Structural Engineer",
+        "tekla structures",
+        "staad pro",
+        "cdm regulations",
+        "jct contract",
+        "chartered engineer"
+      ]
+    },
+    {
+      "id": "healthcare-strong",
+      "jd_match": 100.0,
+      "jd_match_stemmed": 100.0,
+      "quality": 74.7,
+      "n_requirements": 17,
+      "real_gaps": []
+    }
+  ]
+}

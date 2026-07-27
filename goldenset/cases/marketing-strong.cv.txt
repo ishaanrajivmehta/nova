@@ -1,0 +1,27 @@
+PRIYA NAIR
+Digital Marketing Manager
+priya.nair@example.com | 07700 900123 | Manchester, UK
+
+SUMMARY
+Digital Marketing Manager with six years running paid and organic acquisition for D2C retail brands.
+
+EXPERIENCE
+Digital Marketing Manager  Mar 2022 - Present
+Northgate Retail Group
+- Owned a £2.4m annual paid media budget across Google Ads and Meta Ads Manager, improving return on ad spend from 3.1x to 4.6x in eighteen months
+- Rebuilt attribution modeling in Google Analytics 4 and Google Tag Manager after the Universal Analytics sunset, cutting reporting lag from 9 days to 1
+- Ran a 40-test conversion rate optimization programme on Shopify landing pages, lifting checkout completion 18%
+- Led marketing automation migration from Mailchimp to Klaviyo, rebuilding 22 lead nurturing flows and lifting email revenue 31%
+Marketing Executive  Jun 2019 - Feb 2022
+Halden & Co
+- Grew organic sessions 140% in two years through technical seo fixes surfaced with Screaming Frog, Semrush and Ahrefs
+- Produced monthly performance reporting in Looker Studio for the executive team
+
+SKILLS
+Paid media: Google Ads, Meta Ads Manager, programmatic advertising, paid search, paid social
+Analytics: Google Analytics 4, Google Tag Manager, Looker Studio, a/b testing
+Lifecycle: Klaviyo, Mailchimp, marketing automation, email marketing, lead scoring
+Platforms: Shopify, WordPress, Webflow
+
+EDUCATION
+BA Marketing - University of Leeds  Sep 2015 - Jun 2018

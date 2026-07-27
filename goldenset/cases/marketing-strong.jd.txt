@@ -1,0 +1,7 @@
+Digital Marketing Manager
+We are looking for a Digital Marketing Manager to own paid and organic acquisition.
+You will manage Google Ads and Meta Ads Manager budgets, own Google Analytics 4 and Google Tag Manager
+implementation, run conversion rate optimization experiments, and lead our marketing automation
+platform (Klaviyo). Strong technical seo experience with Semrush or Ahrefs required. You will build
+performance reporting in Looker Studio and own attribution modeling across channels.
+Experience with Shopify and a/b testing essential.

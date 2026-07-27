@@ -1,0 +1,26 @@
+SARAH BENNETT
+Clinical Research Associate
+s.bennett@example.com | Cambridge, UK
+
+SUMMARY
+Clinical Research Associate with five years monitoring phase II and III oncology trials.
+
+EXPERIENCE
+Clinical Research Associate  Apr 2022 - Present
+Meridian Clinical Services
+- Monitored 14 investigator sites across the UK and Ireland to good clinical practice and iso 14155
+- Performed source data verification on 400+ subject records in Medidata Rave, resolving 96% of queries within 5 days
+- Managed the trial master file and investigator site file for two phase III studies, passing MHRA inspection with no critical findings
+- Escalated and tracked serious adverse event reporting within 24-hour regulatory timelines
+- Delivered site initiation visit training on protocol deviation handling and informed consent
+Clinical Trial Administrator  Jan 2020 - Mar 2022
+Meridian Clinical Services
+- Maintained the clinical trial management system and case report form tracking for 9 studies
+
+SKILLS
+Regulatory: good clinical practice, 21 cfr part 11, iso 14155, MHRA, pharmacovigilance
+Systems: Medidata Rave, electronic data capture, clinical trial management system, Veeva Vault, REDCap
+Trial ops: source data verification, trial master file, clinical monitoring, adverse event reporting
+
+EDUCATION
+BSc Biomedical Science - University of Nottingham  Sep 2016 - Jun 2019

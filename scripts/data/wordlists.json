@@ -1,0 +1,45 @@
+{
+  "_note": "Wordlists for the deterministic quality checks in cv_score.py. Editable/growable.",
+  "weak_verbs": [
+    "assisted", "helped", "worked on", "worked with", "responsible for", "responsible",
+    "involved in", "tasked with", "duties included", "duties", "participated in",
+    "supported", "helped to", "aided", "contributed to", "engaged in", "handled",
+    "in charge of", "part of", "familiar with", "exposure to"
+  ],
+  "strong_verbs": [
+    "built", "designed", "engineered", "developed", "led", "shipped", "automated",
+    "analysed", "analyzed", "modelled", "modeled", "delivered", "reduced", "increased",
+    "launched", "architected", "negotiated", "implemented", "optimised", "optimized",
+    "created", "drove", "spearheaded", "streamlined", "deployed", "migrated", "scaled",
+    "founded", "designed", "orchestrated", "productionised", "productionized", "trained",
+    "forecasted", "quantified", "accelerated", "cut", "grew", "tripled", "doubled",
+    "generated", "pioneered", "overhauled", "consolidated", "integrated", "devised"
+  ],
+  "buzzwords": [
+    "team player", "results-driven", "results driven", "detail-oriented", "detail oriented",
+    "hard worker", "hard-working", "go-getter", "think outside the box", "synergy",
+    "self-starter", "self starter", "dynamic", "proactive", "passionate", "motivated",
+    "excellent communication skills", "fast learner", "goal-oriented", "value add",
+    "best of breed", "thought leader", "guru", "ninja", "rockstar", "wheelhouse",
+    "track record of success", "bring to the table", "hit the ground running"
+  ],
+  "leadership_signals": [
+    "led", "mentored", "managed", "supervised", "coordinated", "directed", "trained",
+    "spearheaded", "owned", "drove", "oversaw", "headed", "founded", "chaired",
+    "delegated", "onboarded"
+  ],
+  "analytical_signals": [
+    "analysed", "analyzed", "modelled", "modeled", "forecasted", "quantified",
+    "evaluated", "measured", "tested", "experimented", "optimised", "optimized",
+    "diagnosed", "investigated", "validated", "benchmarked"
+  ],
+  "collaboration_signals": [
+    "collaborated", "partnered", "coordinated", "liaised", "stakeholder", "cross-functional",
+    "cross functional", "presented", "communicated", "aligned", "facilitated"
+  ],
+  "pronouns": ["i", "me", "my", "mine", "we", "our", "us"],
+  "filler": [
+    "various", "several", "many", "a lot", "lots of", "etc", "and more", "things",
+    "stuff", "some", "a number of", "successfully", "in order to", "responsible for"
+  ]
+}
