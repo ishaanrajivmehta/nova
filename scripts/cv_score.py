@@ -90,6 +90,20 @@ def _data():
         _GAZ = _load_json("skills_gazetteer.json")
     return _SYN, _WL, _GAZ
 
+# --- 28 Jul 2026: DOMAIN-LIST WIRING --------------------------------------------------------
+# skills_gazetteer.json carries a `domains` key (marketing/sales/finance/HR/legal/healthcare/
+# education/public_sector/operations/physical_engineering/design_creative/hospitality_retail —
+# the nova multi-domain expansion) that extract_requirements()/_cv_skill_set() never read: the
+# data was merged in but nothing consumed it, so every non-data/AI JD scored against `hard_skills`
+# alone. This flattens `domains` into one term list so both functions see it. Domain-list terms
+# are genuine tools/hard skills (e.g. "incoterms", "solidworks") just organised by category, so
+# they carry through as ordinary hard_skill-weighted requirements, not the lesser "domain" type.
+def _domain_terms(gaz: dict) -> list:
+    out = []
+    for terms in gaz.get("domains", {}).values():
+        out.extend(terms)
+    return out
+
 # surface-form -> canonical, built from synonyms.json (canonical maps to itself + each variant)
 _SURF2CANON = None
 def _surface_map():
@@ -214,8 +228,8 @@ def extract_requirements(jd_text: str, title: Optional[str] = None) -> list:
             reqs[c].freq += 1
         else:
             reqs[c] = Requirement(term=c, surface=surface, type=typ, freq=1)
-    # hard skills / tools
-    for s in gaz.get("hard_skills", []):
+    # hard skills / tools (curated core gazetteer + the multi-domain expansion — 28 Jul wiring)
+    for s in gaz.get("hard_skills", []) + _domain_terms(gaz):
         # count occurrences of the skill or any of its synonym surfaces
         surfaces = [s] + _data()[0].get(canon(s), [])
         cnt = sum(len(re.findall(r"(?<![a-z0-9])" + re.escape(norm(x)) + r"(?![a-z0-9])", jn)) for x in surfaces)
@@ -258,7 +272,7 @@ def _cv_skill_set(cv_text: str, extra_skills: Optional[list] = None) -> set:
     _, _, gaz = _data()
     jn = norm(cv_text)
     found = set()
-    for s in gaz.get("hard_skills", []) + gaz.get("soft_skills", []) + gaz.get("qualifications", []):
+    for s in gaz.get("hard_skills", []) + _domain_terms(gaz) + gaz.get("soft_skills", []) + gaz.get("qualifications", []):
         surfaces = [s] + _data()[0].get(canon(s), [])
         if any(_contains(jn, x) for x in surfaces):
             found.add(canon(s))
@@ -555,7 +569,11 @@ def scorer_version() -> str:
         except OSError:
             h.update(b"missing")
     gaz = _data()[2]
-    return f"g{len(gaz.get('hard_skills', []))}-{h.hexdigest()[:8]}"
+    # 28 Jul 2026: domains{} is now wired into extraction/skill-detection (see _domain_terms) —
+    # the version label counts the full consumed vocabulary, not just hard_skills, so a report
+    # scored before this change is visibly on a different ruler from one scored after it.
+    total_terms = len(gaz.get('hard_skills', [])) + len(_domain_terms(gaz))
+    return f"g{total_terms}-{h.hexdigest()[:8]}"
 
 def tier_for(jd_match: float) -> str:
     for name, cut in TIER_CUTS:
